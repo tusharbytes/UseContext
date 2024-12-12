@@ -11,6 +11,6 @@ const Square = (props)=> {
         </div>
     
   )
-}
+} 
 
 export default Square
